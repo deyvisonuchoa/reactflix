@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 reactjs
 sass
 material icons/core
+https://dev.to/safak/full-stack-netflix-app-7-hours-free-tutorial-1o6l
