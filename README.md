@@ -1,3 +1,6 @@
+<img src="assets/login.png">
+<img src="assets/home.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
